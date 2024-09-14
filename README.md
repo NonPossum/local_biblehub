@@ -5,5 +5,5 @@
 ## Requirements
 - Python 3.6+
 - `rich` library (install via `pip`)
-- [json files](https://drive.google.com/file/d/1daxe8Tn2fetojxpsPCaQotwAGy8fCz7l/view?usp=sharing)
+- [json files](https://drive.google.com/file/d/1daxe8Tn2fetojxpsPCaQotwAGy8fCz7l/view?usp=sharing) <-- There is **biblehub_data.json**
 
