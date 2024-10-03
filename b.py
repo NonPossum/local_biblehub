@@ -73,7 +73,7 @@ def main():
         strongs_number = int(console.input("Enter Strong's Number: "))
         display_references(strongs_number, data)
     elif mode.lower() == 't':
-        data = load_data('biblehub_data_2.json')
+        data = load_data('biblehub_data.json')
         transliteration = console.input("Enter Transliteration you want to search for: ")
         entry = find_entry_by_transliteration(data, transliteration)
         display_entry_details(entry)
